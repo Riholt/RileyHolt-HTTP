@@ -1,4 +1,4 @@
-# Proof I can code
+# Proof I Can Code
 ```
 <!DOCTYPE html>
 	<html>
